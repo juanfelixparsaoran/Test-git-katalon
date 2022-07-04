@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "95F54FD40E7BED6E5F8C4577F8CCDBB3",
+  "keywordClasses": [
+    {
+      "name": "paketbaru.keywordbaru",
+      "keywordMethods": [
+        {
+          "name": "myCustomPrint",
+          "parameters": [
+            {
+              "name": "msg",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

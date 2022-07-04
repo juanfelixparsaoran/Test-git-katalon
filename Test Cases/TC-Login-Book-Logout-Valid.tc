@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Login-Book-Logout-Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77e5d4cc-884d-4f65-80cc-cd09bc0267b7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-BookAppointment-Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c18639dc-45e0-4984-8b28-513fac94317d</testCaseGuid>
+</TestCaseEntity>
